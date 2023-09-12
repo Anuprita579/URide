@@ -187,7 +187,7 @@
 .end2 li a{
     text-decoration: none;
     color: white;
-    padding: 10px 10px;
+    margin: 10px 10px;
 }
 .endleft{
     display: flex;
@@ -506,6 +506,7 @@ width: 70%;
     }
     .end2 li{
         font-size: xx-small;
+        text-align: center;
     }
     .end{
         height: auto;
@@ -560,5 +561,23 @@ width: 70%;
     }
     .reg3{
         padding: 5px 20px;
+    }
+    .tab2{
+        display : inline;
+    }
+    .tab4{
+        height: 30px;
+    }
+    .t2{
+        font-size: 12px;
+    }
+    .t1{
+        font-size: 16px;
+    }
+    .work5{
+        flex-direction: column;
+    }
+    .work6{
+        height: 300px;
     }
 }
